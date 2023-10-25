@@ -4,3 +4,7 @@
 Para esse projeto vamos utilizar um esp32 para a coleta e filtragem desses dados, para que possamos mandar os dados de forma organizada para o banco de dados
 Diagrama eletrico do circuito:
 ![Diagrama](diagrama_oficial.png)
+
+A maneira como vamos mostrar os dados do cliente é através de um aplicativo, onde podemos ver o gasto médio, tensão, corrente e potência obitidos  pela medição.
+Segue abaixo o protótipo das telas que moldamos para o nosso aplicativo:
+![telas](telas.png)
